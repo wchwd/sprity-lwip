@@ -38,7 +38,7 @@
     "sprity"
   ],
   "dependencies": {
-    "pajk-lwip": "git://github.com/Pajk/lwip#development",
+    "pajk-lwip": "0.2.0",
     "bluebird": "^2.9.24"
   },
   "devDependencies": {
